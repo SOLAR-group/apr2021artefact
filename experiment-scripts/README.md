@@ -1,7 +1,7 @@
 # Refining Fitness Functions for Searched-Based Program Repair
 
 This repository contains the experiment scripts of the "Refining Fitness Functions for Searched-Based Program Repair" paper by Zhiqiang Bian, Aymeric Blot and Justyna Petke.
-The Gin repository used for this experiment is https://github.com/SOLAR-group/apr2021gin.
+The Gin repository used for this experiment is [../gin](https://github.com/SOLAR-group/apr2021artefact/tree/main/gin).
 
 ## quixbugs
 We use [quixbugs](https://github.com/jkoppel/QuixBugs) dataset as the benchmark. `quixbugs/` contains the refactored quixbugs java classes that suit our experiment scripts.
