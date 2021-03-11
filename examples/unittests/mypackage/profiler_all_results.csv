@@ -1,3 +1,0 @@
-"Project","Method","Count","Tests"
-"mypackage","mypackage.Example.returnTen()","5","mypackage.ExampleTest.testReturnTen [],mypackage.ExampleTest.emptyTest []"
-"mypackage","mypackage.Example.returnOneHundred()","10","mypackage.ExampleTest.testReturnOneHundred [],mypackage.ExampleTest.emptyTest []"
